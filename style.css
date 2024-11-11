@@ -1,0 +1,16 @@
+.timer {
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    margin: 50px auto;
+}
+.field {
+    text-align: center;
+}
+.value {
+    font-size: 2em;
+}
+.label {
+    font-size: 0.75em;
+    color: #f375bb;
+}
